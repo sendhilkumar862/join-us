@@ -4,7 +4,7 @@
 1. I am SENDHIL KUMAR S  with 3+ year of experience as a Front end developer. With the expertise in react Js and flutter using (HTML, CSS, Javascript),I like building mobile application for android and Ios using flutter. Along with windows application and web application using ReactJs and Flutter.
 2. Yes, I have my own Pc with good internet connection, 
    RAM - 8.00 GB, 
-3. Yes, I would like to share my linkedin portfolio - www.linkedin.com/in/sendhil-kumar-3b986a195 
+3. Yes, I would like to share my linkedin Portfolio - www.linkedin.com/in/sendhil-kumar-3b986a195 
 4. No
 5.  1.Dart,Javascript,Typescript,C,C++ 
     2. Windows
